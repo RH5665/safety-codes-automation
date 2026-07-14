@@ -1,4 +1,4 @@
-# Safety code Automation
+# Safety Code Automation
 
 This project is using Playwright and TypeScript to automate the My Application flow
 
@@ -26,14 +26,14 @@ I used a folders stucture similar to the automation frameworks I have worked wit
 - reports - empty (Reserved for test reports)
 - utils - empty (Reserved for test data generation)
 
-# Commands used to Build the Framework
+# Commands Used To Build The Framework
 
 - Create the project folder 
     - mkdir safety-codes-automation
     - cd safety-codes-automation
 
 - Initialize the Playwright project
-    - npm init playright@latest 
+    - npm init playwright@latest 
 
 - Create the folder structure 
     - mkdir config pages fixtures test-data reports tests utils 
